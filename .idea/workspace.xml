@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b33d7b3c-c473-4fe1-a73d-bdb2e92e25b8" name="Changes" comment="Commit inicial" />
+    <list default="true" id="b33d7b3c-c473-4fe1-a73d-bdb2e92e25b8" name="Changes" comment="Commit inicial">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/Calculadora.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
