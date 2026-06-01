@@ -5,12 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b33d7b3c-c473-4fe1-a73d-bdb2e92e25b8" name="Changes" comment="Commit inicial">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/senac/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/senac/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/senac/PositivoNegativoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/senac/PositivoNegativoTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotChats">
+    <option name="panelChat">
+      <chat>
+        <option name="activeSessionId" value="14940c7e-02cc-43d6-b4eb-233d31df3bfd" />
+        <option name="sessions">
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="14940c7e-02cc-43d6-b4eb-233d31df3bfd" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+        </option>
+        <option name="type" value="PANEL" />
+      </chat>
+    </option>
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/alysson_borges/GitHub/SenacJunit" value="2RlK9gCVJfBW47JbBqvsyH72s0b" />
+    </persistenceIdMap>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,21 +49,118 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dunkelhai"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dunkelhai/SenacJunit.git",
+    "accountId": "aacea438-f019-4e3f-8e65-a628dd05d6e1"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000039660817769" />
+      <entry key="S5" value="1.0178563870931379" />
+      <entry key="S10" value="1.1634957672806214" />
+      <entry key="S30" value="2.0116941020946273" />
+      <entry key="S60" value="2.7404358324350087" />
+      <entry key="M2" value="3.581067181149923" />
+      <entry key="M5" value="5.266185618543227" />
+      <entry key="M10" value="6.619186150561466" />
+      <entry key="M15" value="7.263083375782789" />
+      <entry key="M30" value="8.044805033460229" />
+      <entry key="H1" value="8.498116389618046" />
+      <entry key="H2" value="8.742623463799571" />
+      <entry key="H4" value="8.869655021229915" />
+      <entry key="D1" value="8.978041532741688" />
+      <entry key="W1" value="8.996857282315233" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.987389039660151E-298" />
+      <entry key="S2" value="6.416578504543181E-75" />
+      <entry key="S5" value="3.16168478223119E-30" />
+      <entry key="S10" value="2.5110869319040705E-15" />
+      <entry key="S30" value="2.1569368882937213E-5" />
+      <entry key="S60" value="0.006567750517497516" />
+      <entry key="M2" value="0.11460908725635115" />
+      <entry key="M5" value="0.6372422973887197" />
+      <entry key="M10" value="1.1289302869722373" />
+      <entry key="M15" value="1.3660126157097638" />
+      <entry key="M30" value="1.652883841283859" />
+      <entry key="H1" value="1.818177001938496" />
+      <entry key="H2" value="1.9069226476249057" />
+      <entry key="H4" value="1.9529068820720852" />
+      <entry key="D1" value="1.9920730143079368" />
+      <entry key="W1" value="1.998865645150071" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.678302163723836" />
+      <entry key="MS500" value="0.9253044280378523" />
+      <entry key="S2" value="0.9807793666505051" />
+      <entry key="S5" value="0.9953747669091029" />
+      <entry key="S10" value="1.0778228566694064" />
+      <entry key="S30" value="1.865061841406161" />
+      <entry key="S60" value="2.633963726170756" />
+      <entry key="M2" value="3.622961720270364" />
+      <entry key="M5" value="5.866149445127726" />
+      <entry key="M10" value="7.726836931843406" />
+      <entry key="M15" value="8.61413245152393" />
+      <entry key="M30" value="9.689753738201516" />
+      <entry key="H1" value="10.312198224436482" />
+      <entry key="H2" value="10.647464632688918" />
+      <entry key="H4" value="10.821512426000638" />
+      <entry key="D1" value="10.969938397424833" />
+      <entry key="W1" value="10.99569773263894" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
   <component name="ProjectId" id="2RlK9gCVJfBW47JbBqvsyH72s0b" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Debug",
+    "JUnit.PositivoNegativoTest.deveResultarPositivoQuandoNumeroMaiorQueZero.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alysson_borges/GitHub/SenacJunit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -48,7 +171,7 @@
       <recent name="com.senac" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PositivoNegativoTest">
+  <component name="RunManager" selected="JUnit.PositivoNegativoTest.deveResultarPositivoQuandoNumeroMaiorQueZero">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.senac.Main" />
       <module name="SenacJunit" />
@@ -73,22 +196,6 @@
       <option name="PACKAGE_NAME" value="com.senac" />
       <option name="MAIN_CLASS_NAME" value="com.senac.ParImparTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ParImparTest.validaPar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SenacJunit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.senac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.senac" />
-      <option name="MAIN_CLASS_NAME" value="com.senac.ParImparTest" />
-      <option name="METHOD_NAME" value="validaPar" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,15 +231,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PositivoNegativoTest.deveResultarPositivoQuandoNumeroMaiorQueZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SenacJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.senac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.senac" />
+      <option name="MAIN_CLASS_NAME" value="com.senac.PositivoNegativoTest" />
+      <option name="METHOD_NAME" value="deveResultarPositivoQuandoNumeroMaiorQueZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PositivoNegativoTest.deveResultarPositivoQuandoNumeroMaiorQueZero" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.PositivoNegativoTest" />
         <item itemvalue="JUnit.PositivoNegativoTest.avalia" />
         <item itemvalue="JUnit.ParImparTest" />
-        <item itemvalue="JUnit.ParImparTest.validaPar" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -142,6 +273,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687819080910</updated>
+      <workItem from="1780355166222" duration="1268000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial">
       <created>1687819122046</created>
@@ -152,6 +284,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -167,5 +302,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit inicial" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
